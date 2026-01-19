@@ -2,15 +2,22 @@
 
 🔬 Postdoctoral researcher specialising in data integration & analytics. <br/>
 🌱 Developing and maintaining [PyHelpers](https://github.com/mikeqfu/pyhelpers), [PyDriosm](https://github.com/mikeqfu/pydriosm) and [PyRCS](https://github.com/mikeqfu/pyrcs). <br/>
-🛠️ Solving real-world transport challenges with data-driven solutions. <br/>
-📚 Exploring advanced techniques in data science. <br/>
+🛠️ Solving real-world transport and energy challenges with data-driven solutions. <br/>
+📚 Exploring advanced techniques in applied data science. <br/>
 
-I'm passionate about making data science tools more accessible to the transport research community—bridging the gap between complex methodologies and real-world applications. I'm also working to enhance open-source Python tools for transport data analysis, scalable computing and usability.
+I am passionate about making data science tools more accessible to the research community and have also been working to enhance open-source Python tools for data analysis, scalable computing and usability, aiming to bridge the gap between complex methodologies and real-world applications across the transport and energy sectors. 
 
-<p><!--suppress HtmlDeprecatedAttribute -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeqfu&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/></p>
-<p><!--suppress HtmlDeprecatedAttribute -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeqfu&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" /></p><br/>
+<!--suppress HtmlDeprecatedAttribute -->
+<p>
+    <img align="left"
+        src="https://github-readme-stats.vercel.app/api?username=mikeqfu&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&custom_title=Qian%27s+GitHub+Stats" 
+    alt="GitHub Stats"/>
+</p>
+<p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeqfu&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+        alt="Most Used Languages" />
+</p><br/>
 
 ### Recent publications:
 
