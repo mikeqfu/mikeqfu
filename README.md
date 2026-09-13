@@ -20,79 +20,79 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="12%">Package</th>
-      <th align="left" width="88%">Description</th>
+      <th align="left" width="10%">Package</th>
+      <th align="left" width="90%">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left" nowrap="nowrap">
-        <a href="https://github.com/mikeqfu/pyhelpers"><strong>PyHelpers</strong></a>
+        <a href="https://github.com/mikeqfu/pyhelpers" target="_blank" rel="noopener noreferrer"><strong>PyHelpers</strong></a>
       </td>
       <td align="left">
         An open-source toolkit for facilitating Python users' data manipulation tasks. <br>
-        <a href="https://pypi.org/project/pyhelpers/">
+        <a href="https://pypi.org/project/pyhelpers/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/pypi/v/pyhelpers?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
-        <a href="https://anaconda.org/conda-forge/pyhelpers">
-          <img src="https://img.shields.io/conda/vn/conda-forge/pyhelpers?logo=anaconda&style=flat-square" alt="PyPI version" />
+        <a href="https://anaconda.org/conda-forge/pyhelpers" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/conda/vn/conda-forge/pyhelpers?logo=anaconda&style=flat-square" alt="Conda-Forge version" />
         </a>
-        <a href="https://github.com/mikeqfu/pyhelpers/blob/master/LICENSE">
+        <a href="https://github.com/mikeqfu/pyhelpers/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/license/mikeqfu/pyhelpers?style=flat-square" alt="License" />
         </a>
-        <a href="https://doi.org/10.5281/zenodo.4017438">
+        <a href="https://doi.org/10.5281/zenodo.4017438" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/10.5281%2Fzenodo.4017438-blue?label=doi&style=flat-square" alt="DOI" />
         </a>
-        <a href="https://pyhelpers.readthedocs.io/en/latest/?badge=latest">
+        <a href="https://pyhelpers.readthedocs.io/en/latest/?badge=latest" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/readthedocs/pyhelpers?logo=readthedocs&version=latest&style=flat-square" alt="Read The Docs" />
         </a>
-        <a href="https://github.com/mikeqfu/pyhelpers/issues">
+        <a href="https://github.com/mikeqfu/pyhelpers/issues" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/issues-raw/mikeqfu/pyhelpers?style=flat-square" alt="Open Issues" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="left" nowrap="nowrap">
-        <a href="https://github.com/mikeqfu/pyrcs"><strong>PyRCS</strong></a>
+        <a href="https://github.com/mikeqfu/pyrcs" target="_blank" rel="noopener noreferrer"><strong>PyRCS</strong></a>
       </td>
       <td align="left">
         An open-source tool for collecting railway codes used in different UK rail industry systems. <br>
-        <a href="https://pypi.org/project/pyrcs/">
+        <a href="https://pypi.org/project/pyrcs/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/pypi/v/pyrcs?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
-        <a href="https://github.com/mikeqfu/pyrcs/blob/master/LICENSE">
+        <a href="https://github.com/mikeqfu/pyrcs/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/license/mikeqfu/pyrcs?style=flat-square" alt="License" />
         </a>
-        <a href="https://doi.org/10.5281/zenodo.4026744">
+        <a href="https://doi.org/10.5281/zenodo.4026744" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/10.5281%2Fzenodo.4026744-blue?label=doi&style=flat-square" alt="DOI" />
         </a>
-        <a href="https://pyrcs.readthedocs.io/en/latest/?badge=latest">
+        <a href="https://pyrcs.readthedocs.io/en/latest/?badge=latest" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/readthedocs/pyrcs?logo=readthedocs&version=latest&style=flat-square" alt="Read The Docs" />
         </a>
-        <a href="https://github.com/mikeqfu/pyrcs/issues">
+        <a href="https://github.com/mikeqfu/pyrcs/issues" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/issues-raw/mikeqfu/pyrcs?style=flat-square" alt="Open Issues" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="left" nowrap="nowrap">
-        <a href="https://github.com/mikeqfu/pydriosm"><strong>PyDriosm</strong></a>
+        <a href="https://github.com/mikeqfu/pydriosm" target="_blank" rel="noopener noreferrer"><strong>PyDriosm</strong></a>
       </td>
       <td align="left">
         An open-source tool for downloading, reading and PostgreSQL-based I/O of OpenStreetMap data. <br>
-        <a href="https://pypi.org/project/pydriosm/">
+        <a href="https://pypi.org/project/pydriosm/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/pypi/v/pydriosm?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
-        <a href="https://github.com/mikeqfu/pydriosm/blob/master/LICENSE">
+        <a href="https://github.com/mikeqfu/pydriosm/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/license/mikeqfu/pydriosm?style=flat-square" alt="License" />
         </a>
-        <a href="https://doi.org/10.5281/zenodo.4281194">
+        <a href="https://doi.org/10.5281/zenodo.4281194" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/10.5281%2Fzenodo.4281194-blue?label=doi&style=flat-square" alt="DOI" />
         </a>
-        <a href="https://pydriosm.readthedocs.io/en/latest/?badge=latest">
+        <a href="https://pydriosm.readthedocs.io/en/latest/?badge=latest" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/readthedocs/pydriosm?logo=readthedocs&version=latest&style=flat-square" alt="Read The Docs" />
         </a>
-        <a href="https://github.com/mikeqfu/pydriosm/issues">
+        <a href="https://github.com/mikeqfu/pydriosm/issues" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/issues-raw/mikeqfu/pydriosm?style=flat-square" alt="Open Issues" />
         </a>
       </td>
