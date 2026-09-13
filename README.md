@@ -30,7 +30,7 @@
         <a href="https://github.com/mikeqfu/pyhelpers"><strong>PyHelpers</strong></a>
       </td>
       <td align="left">
-        Helper functions for data pre-processing and management tasks. <br>
+        An open-source toolkit for facilitating Python users' data manipulation tasks. <br>
         <a href="https://pypi.org/project/pyhelpers/">
           <img src="https://img.shields.io/pypi/v/pyhelpers?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
@@ -53,7 +53,7 @@
         <a href="https://github.com/mikeqfu/pyrcs"><strong>PyRCS</strong></a>
       </td>
       <td align="left">
-        Data collection, parsing and retrieval tool for UK Railway Codes. <br>
+        An open-source tool for collecting railway codes used in different UK rail industry systems. <br>
         <a href="https://pypi.org/project/pyrcs/">
           <img src="https://img.shields.io/pypi/v/pyrcs?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
@@ -76,7 +76,7 @@
         <a href="https://github.com/mikeqfu/pydriosm"><strong>PyDriosm</strong></a>
       </td>
       <td align="left">
-        Downloader, parser and PostgreSQL I/O interface for OpenStreetMap (OSM) data. <br>
+        An open-source tool for downloading, reading and PostgreSQL-based I/O of OpenStreetMap data. <br>
         <a href="https://pypi.org/project/pydriosm/">
           <img src="https://img.shields.io/pypi/v/pydriosm?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
