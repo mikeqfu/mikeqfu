@@ -34,6 +34,9 @@
         <a href="https://pypi.org/project/pyhelpers/">
           <img src="https://img.shields.io/pypi/v/pyhelpers?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
+        <a href="https://anaconda.org/conda-forge/pyhelpers">
+          <img src="https://img.shields.io/conda/vn/conda-forge/pyhelpers?logo=anaconda&style=flat-square" alt="PyPI version" />
+        </a>
         <a href="https://github.com/mikeqfu/pyhelpers/blob/master/LICENSE">
           <img src="https://img.shields.io/github/license/mikeqfu/pyhelpers?style=flat-square" alt="License" />
         </a>
