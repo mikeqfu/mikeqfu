@@ -60,6 +60,9 @@
         <a href="https://pypi.org/project/pyrcs/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/pypi/v/pyrcs?logo=pypi&style=flat-square" alt="PyPI version" />
         </a>
+        <a href="https://anaconda.org/conda-forge/pyrcs" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/conda/vn/conda-forge/pyrcs?logo=anaconda&style=flat-square" alt="Conda-Forge version" />
+        </a>
         <a href="https://github.com/mikeqfu/pyrcs/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/github/license/mikeqfu/pyrcs?style=flat-square" alt="License" />
         </a>
